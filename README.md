@@ -27,7 +27,14 @@ Gustavo Duque
 
 To run this application, use the command line, install all dependencies-- then type the command node index.js. You will then be presented with a series of questions. Once all questions have been answered, a message will display indicating you that your logo has been generated.search for newly generated SVG file.
 
+
+
+https://github.com/Wormhole616/SVGLogoMaker/assets/144727575/fa672ca3-c267-48df-96d2-cdbf3103caf0
+
+
+
 For unit testing instructions, navigate to the Test Instructions section.
+
 
 ## Contribution Guidelines
 
